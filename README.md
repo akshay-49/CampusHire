@@ -116,11 +116,11 @@ CampusHire/
 ```
 
 ### Tech Stack
--Language: Swift 5, SwiftUI
--Backend: Firebase Authentication, Firestore, Storage
--File Uploads: PDFKit for résumé preview
--Architecture: Lightweight MVVM (ObservableObject based)
--Dependency Manager: Swift Package Manager (Xcode SPM)
+- Language: Swift 5, SwiftUI
+- Backend: Firebase Authentication, Firestore, Storage
+- File Uploads: PDFKit for résumé preview
+- Architecture: Lightweight MVVM (ObservableObject based)
+- Dependency Manager: Swift Package Manager (Xcode SPM)
 
 
 
